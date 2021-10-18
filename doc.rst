@@ -28,6 +28,7 @@ o Programmable FSM Library
 o FSM Library is dumb, it don't know what and how to do, unless application teaches (programs) it
 
 ..code ::
+
    Examples:
         
         0/1          Input:   0 0 1 1 0
