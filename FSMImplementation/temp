@@ -1,0 +1,139 @@
+commit 7aafb5729bc1e7774919822ac5dd1ea356f7f2db
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Wed Sep 18 03:58:05 2019 +0530
+
+    Warnings Fix
+
+commit 7882b56854c7ee1eb751c6ab122253e08e5b817a
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Fri Sep 13 21:40:42 2019 +0530
+
+    Added a check in input matching function that remaining length of the
+    buffer must be atleast as long as the character being inspected to match
+    a pattern
+
+commit 0cb1728d496e83cd1e0e5bd5aff8594d8f3057e6
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Thu Sep 12 14:38:29 2019 +0530
+
+    phase 3 codes
+
+commit 0f6eae576195a026e389183224b8e4e5508d270a
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Thu Sep 12 07:21:35 2019 +0530
+
+    Added Makefile
+
+commit ebc7a49a4e2d88277b6211af23d001e47bb9551d
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Wed Sep 11 14:45:27 2019 +0530
+
+    No need of fsm_null_output_fn.
+
+commit c8012e7108159726871413f5f1f269a354e33b39
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Wed Sep 11 08:12:51 2019 +0530
+
+    Added Binary to HexaDecimal Converter FSM in std_fsm.c/.h Part2
+
+commit 09531f04920cf45ae677097cd7722edfc5dd10f2
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Wed Sep 11 07:18:45 2019 +0530
+
+    Added Binary to HexaDecimal Converter FSM in std_fsm.c/.h
+
+commit 78d84d4f1740f5a0a13597c00d466dc077d14c03
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Tue Sep 10 14:05:34 2019 +0530
+
+    Added example to implement substr() using FSM
+
+commit 9d5943d302dd7335229e3dc020172e1d3350b6d1
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 8 22:14:50 2019 +0530
+
+    Phase 2 - Code Complete
+
+commit 395242e95afe92dc211c0ae309cd4bcf1c7d7f67
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 8 22:14:09 2019 +0530
+
+    Phase 1 - Assignment Complete - bug fix
+
+commit 5c67fd01e816c049661fe9be7b08be5e5a09461c
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 8 16:36:58 2019 +0530
+
+    Phase 1 - Assignment Complete
+
+commit 3b8d4ff78a15efb62f39c0acb184a93cdbb9f86e
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 8 05:35:29 2019 +0530
+
+    Phase 1 - Data Structure and API Setup Complete
+
+commit 80bb36a15ee078c8821079ac9d130ad759377fb7
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 8 03:54:58 2019 +0530
+
+    Phase 1 - Data Structure Setup
+
+commit cbc8aac425519015d5c25fa2d758354562062a9e
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sat Sep 7 21:00:09 2019 +0530
+
+    Advanced FSM Implementation Complete. Added a sample example for email
+    validation FSM in std_fsm.c
+
+commit 3e8840f3fdb21823b3fcbc1a8d58adc79cb6c0d3
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Mon Sep 2 19:14:01 2019 +0530
+
+    Added Exercise on Bit Counter
+
+commit a7ff5b6b687079dda5187d903c9464f40874499a
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Mon Sep 2 17:55:07 2019 +0530
+
+    Basic FSM Ready
+
+commit 7ce763acbafeb48e78f28eec3779f065ec1e5887
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 1 13:15:16 2019 +0530
+
+    FSM will now read as many characters from input buffer as the no of
+    characters in the key of transition table entry. Also, Separate input
+    buffer reader is now not used and removed from design.
+
+commit abb74945f46a1511db77e7c73109b1fcfe69da2e
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sun Sep 1 01:32:29 2019 +0530
+
+    Advance FSM - Wrote new file std_fsm.c & std_fsm.h, which implements
+    example FSM for email validation. Analysis shows that, we need to rework
+    more on FSM base design to make it more generic and easily usable by
+    application.
+
+commit dbe4754e7c61ef746e22312c856d9d4570de6aa9
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sat Aug 31 20:56:16 2019 +0530
+
+    Final Changes - ready for course creation
+
+commit 45ad276396f775e4c7772040273eadfe02ade5f1
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sat Aug 31 20:41:02 2019 +0530
+
+    FSM Implementation Draft 2
+
+commit 585fcaaf86a607ad4bb1edb4176c69c3cfb2fb4e
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Sat Aug 31 17:49:53 2019 +0530
+
+    FSM Implementation Draft 1
+
+commit 22501575bff369c24fcb930c535c982ddb540fa3
+Author: Abhishek Sagar <sachinites@gmail.com>
+Date:   Mon Nov 6 11:13:48 2017 +0530
+
+    Initial commit
